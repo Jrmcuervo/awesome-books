@@ -20,14 +20,18 @@ function displayBooks() {
     booksList.innerHTML = '';
     books.forEach(book => {
         const li = document.createElement('li');
-        li.innerText = `${book.title} by ${book.author}`;
+        li.innerHTML = `<div>${book.title}</div> <div>${book.author}</div>`;
         const removeButton = document.createElement('button');
-        removeButton.innerText = 'Remove';
+        removeButton.innerHTML = 'Remove';
         removeButton.addEventListener('click', () => {
             removeBook(book.title);
         });
         li.appendChild(removeButton);
         booksList.appendChild(li);
+        li.style.listStyleType = 'none';
+        let html =`<hr>`;
+        li.innerHTML+=html;
+       
     });
 }
 
