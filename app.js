@@ -28,10 +28,8 @@ function displayBooks() {
         });
         li.appendChild(removeButton);
         booksList.appendChild(li);
-        li.style.listStyleType = 'none';
-        let html =`<hr>`;
-        li.innerHTML+=html;
-       
+        const hr = document.createElement('hr');
+        booksList.appendChild(hr);
     });
 }
 
