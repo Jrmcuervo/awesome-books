@@ -1,4 +1,4 @@
-<a id="readme-top"></a>
+<a name="readme-top"></a>
 
 # 📗 Table of Contents
 
@@ -14,138 +14,134 @@
   - [Usage](#usage)
   - [Run tests](#run-tests)
   - [Deployment](#triangular_flag_on_post-deployment)
-- [👥 Authors](#authors)
+- [👥 Author](#author)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-<!-- PROJECT DESCRIPTION -->
+# 📖 [replica my portfolio] <a name="about-project"></a>
 
-# 📖 Portfolio <a id="about-project"></a>
+**[replica my portfolio]** This is a project to learn how to create a user interface by replicating a Figma template.
 
-> Project created for showing my expirience as a software developer
+## 🛠 Built With <a name="built-with"></a>
 
-## 🛠 Built With <a id="built-with"></a>
-
-### Tech Stack <a id="tech-stack"></a>
-
-> HTML & CSS
+### Tech Stack <a name="tech-stack"></a>
 
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="#">HTML & CSS</a></li>
+    <li><a href="https://reactjs.org/">React.js</a></li>
   </ul>
 </details>
 
 <details>
   <summary>Server</summary>
   <ul>
-    <li><a href="#">N/A</a></li>
+    <li><a href="https://expressjs.com/">Express.js</a></li>
   </ul>
 </details>
 
 <details>
 <summary>Database</summary>
   <ul>
-    <li><a href="#">N/A</a></li>
+    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
   </ul>
 </details>
 
-<!-- Features -->
+### Key Features <a name="key-features"></a>
 
-### Key Features <a id="key-features"></a>
-
-- Show's the best of my work as a software developer
-- Responsive web
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a id="live-demo"></a>
-
-> Add a link to your deployed project.
-
-
-- [Live Demo Link](https://davidespinog.github.io/portfolio/)
+- **Description**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- GETTING STARTED -->
+## 🚀 Live Demo <a name="live-demo"></a>
 
-## 💻 Getting Started <a id="getting-started"></a>
+[Live Demo Link](https://jrmcuervo.github.io/)
 
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running, follow these steps.
+
+step 1:
+Clone this repo locally using git in the command line and the following command
+
+```
+git clone https://github.com/Jrmcuervo/hello-microverse.git
+```
+
+Alternatively, you can just download the complete zip file and extract the folder in your directory
+
+Step 2:
+Copy All Project files and run using VSCODE. HTML can be viewed in browser.
+
 
 ### Prerequisites
 
 In order to run this project you need:
-
-> git clone https://github.com/DavidEspinoG/portfolio.git
-> (you can open it via live server in VS)
+◦ Installation of Git
+◦ Installation of NPM
+◦ A working browser
+◦ Internet connection
+◦ A code editor like Visual Studio Code
+◦ Installation of Live Server plugging in Visual Studio Code
 
 ### Setup
 
 Clone this repository to your desired folder:
 
-> git clone https://github.com/DavidEspinoG/portfolio.git
+```git   clone https://github.com/Jrmcuervo/replica-my-portfolio.git```
 
 ### Install
 
 Install this project with:
 
-N/A
+- No need of installation
 
 ### Usage
 
-To run the project just open it in VS and run liveServer
-
+To run the project, open the it by launching the Live Server plugging in visual studio code or any other means that you know.
 
 ### Run tests
 
 To run tests, run the following command:
 
-N/A
 ### Deployment
 
 You can deploy this project using:
 
-N/A
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 👥 Authors <a name="author"></a>
+
+👤 **Ruben**
+
+- GitHub: [@Jrmcuervo](https://github.com/Jrmcuervo)
+
+👤 **Reza**
+
+- GitHub: [@Reza](https://github.com/Reza)
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- AUTHORS -->
+## 🔭 Future Features <a name="future-features"></a>
 
-## 👥 Authors <a id="authors"></a>
-
-
-👤 **David Espino**
-
-- GitHub: [@DavidEspinoG](https://github.com/DavidEspinoG)
-- Twitter: [@DavidEspinoG](https://twitter.com/DavidEspinoG)
-- LinkedIn: [davidespinog](https://linkedin.com/in/davidespinog)
+- [ ] **a**
+- [ ] **a**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FUTURE FEATURES -->
-
-## 🔭 Future Features <a id="future-features"></a>
-
-
-- More projects are going to be added **[new_feature_1]**
-- A contact form
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- CONTRIBUTING -->
-
-## 🤝 Contributing <a id="contributing"></a>
+## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
@@ -153,30 +149,22 @@ Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- SUPPORT -->
+## ⭐️ Show your support <a name="support"></a>
 
-## ⭐️ Show your support <a id="support"></a>
-
-> Write a message to encourage readers to support your project
-
-If you like this project please star this repo.
+If you like this project...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ACKNOWLEDGEMENTS -->
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-## 🙏 Acknowledgments <a id="acknowledgements"></a>
-
-> Give credit to everyone who inspired your codebase.
-
-I would like to thank microverse inc. for helping me in my professional carreer. 
+I would like to thank...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LICENSE -->
+## 📝 License <a name="license"></a>
 
-## 📝 License <a id="license"></a>
+This project is [MIT](./LICENSE) licensed.
 
-This project is [MIT](./MIT.md) licensed.
+_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
