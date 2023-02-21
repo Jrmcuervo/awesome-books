@@ -28,6 +28,7 @@ function displayBooks() {
         });
         li.appendChild(removeButton);
         booksList.appendChild(li);
+        li.style.listStyleType = 'none';
         const hr = document.createElement('hr');
         booksList.appendChild(hr);
     });
