@@ -121,8 +121,8 @@ You can deploy this project using:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **a**
-- [ ] **a**
+- [ ] **We will refactor the Awesome books application to use JavaScript classes**
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
