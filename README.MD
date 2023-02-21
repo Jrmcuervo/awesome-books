@@ -22,9 +22,9 @@
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-# 📖 [replica my portfolio] <a name="about-project"></a>
+# 📖 [awesome books] <a name="about-project"></a>
 
-**[replica my portfolio]** This is a project to learn how to create a user interface by replicating a Figma template.
+**[awesome books]** This is a project to save a book collection.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -60,7 +60,7 @@ step 1:
 Clone this repo locally using git in the command line and the following command
 
 ```
-git clone https://github.com/Jrmcuervo/hello-microverse.git
+git clone https://github.com/Jrmcuervo/awesome-books.git
 ```
 
 Alternatively, you can just download the complete zip file and extract the folder in your directory
@@ -146,10 +146,6 @@ If you like this project...
 I would like to thank...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 📝 License <a name="license"></a>
-
-This project is [MIT](./LICENSE) licensed.
 
 <!-- LICENSE -->
 
