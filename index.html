@@ -10,18 +10,41 @@
 </head>
 
 <body>
+    <nav>
+        <a href="#">Awesome Books</a>
+        <ul>
+            <li><a href="#">List</a></li>
+            <li><a href="#">Add new </a></li>
+            <li><a href="#">Contact</a> </li>
+        </ul>
+    </nav>
     <main class="main">
         <h1>Awesome Books</h1>
        <div class="bookList"><ul id="books-list"></ul></div> 
-       
-        <form id="add-book-form">
+      
+        <form id="add-book-form" class="addBook">
             <h3>Add a new Book</h3>
             <input type="text" id="title" placeholder="Title" required /><br><br>
             <input type="text" id="author" placeholder="Author" required /><br><br>
             <button type="submit">Add</button>
         </form>
+  
+        <section class="contact">
+            <div>Contact Information</div>
+            <p>Do have any question or you just want to say Hello ?</p>
+            <p>you can reach out to us</p>
+            <ul>
+                <li>our email: mail@mail.com</li>
+                <li>Our phone number: 044444435</li>
+                <li>Our address: Street number 34, City,Country</li>
+            </ul>
+
+        </section>
 
     </main>
+    <footer>
+        Copyright
+    </footer>
     <script src="app.js"></script>
 </body>
 
