@@ -25,7 +25,7 @@ Welcome to my Awesome Books project
 
 # 📖 Awesome Books! <a name="about-project"></a>
 
-**Awesome Books!** In this project we develop a single page aplication to storage a collection of books.
+**Awesome Books!** This project MUST be opened from VS Code for full functionality. In this project we develop a single page aplication to storage a collection of books.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -66,7 +66,7 @@ Welcome to my Awesome Books project
   ```
 - Step 3: Once you have cloned this repo navigate to the folder that contains
   the repository.
-- Step 4: If you want to watch the html file open it with your favorite web browser.
+- Step 4: If you want to watch the html file open it with your favorite web browser(This project MUST be opened from VS Code for full functionality).
 - Step 5: If you want to edit this project open it with your favorite text editor.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
