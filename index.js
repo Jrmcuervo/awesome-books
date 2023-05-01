@@ -1,5 +1,5 @@
 import Book from './modules/book.js';
-import setupNavigation from './modules/navigation.js';
+import setupNavigation from './modules/nav.js';
 import { DateTime } from './node_modules/luxon/src/luxon.js';
 
 const addedBooks = document.querySelector('.added-books');
